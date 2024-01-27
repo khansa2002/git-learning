@@ -1,2 +1,2 @@
-hello 
+
 take input from user
