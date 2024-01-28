@@ -1,2 +1,2 @@
-
 take input from user
+process user data
